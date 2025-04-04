@@ -1,3 +1,8 @@
+// JavaScript एक dynamic language है। इसका मतलब है कि आप runtime पर variables के types को बदल सकते हो।
+//  TypeScript, जो कि JavaScript का एक superset है, में static typing होती है। लेकिन मूल JavaScript में types dynamic होते हैं।
+
+
+
 const AccountId=14525;
 let accountEmail="Vividh5@gmail.com";
 var accountPassword="13235";
