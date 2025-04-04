@@ -21,3 +21,9 @@ name : "hitesh",
   }
 
   console.log("hello world")
+
+
+  //////////////////////////  
+  //  STACK (Primitive), HEAP(NOn Primitive) memory 
+
+  
